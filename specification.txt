@@ -46,4 +46,4 @@ font-weight
 Adicionei 2 funções em JavaScript, uma para criar um alerta na barra de input das sugestões e outra para criar o menu dropdown que aparece ao clicar num butão.
 
 4. Componentes Bootstrap
-Utilizei as classes btn, btn-sucess e btn-primary para alterar o aspeto dos butões e utilizei list-group, list-group-numered e list-group-item para alterar o aspeto das listas orderanadas e não ordenadas
+Utilizei as classes btn e btn-primary para alterar o aspeto dos butões, utilizei list-group, list-group-numered e list-group-item para alterar o aspeto das listas orderanadas e não ordenadase e a classe table para alterar o aspeto da table junto com a classe w-75 para diminuir a largura da tabela.
