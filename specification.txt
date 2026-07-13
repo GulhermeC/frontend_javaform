@@ -1,0 +1,48 @@
+1. Tags HTML
+
+<div>
+<a>
+<h1>
+<h2>
+<h3>
+<h4>
+<button>
+<table>
+<tr>
+<th>
+<td>
+<form>
+<input>
+<img>
+<ul>
+<li>
+<ol>
+
+
+2. Propriedades CSS
+
+background-image
+background
+background-color
+color
+display
+justify-content
+align-items
+position
+z-index
+margin
+border
+border-bottom
+width
+height
+min-width
+overflow
+font-size
+font-weight
+
+
+3. Onde usei JavaScript
+Adicionei 2 funções em JavaScript, uma para criar um alerta na barra de input das sugestões e outra para criar o menu dropdown que aparece ao clicar num butão.
+
+4. Componentes Bootstrap
+Utilizei as classes btn, btn-sucess e btn-primary para alterar o aspeto dos butões e utilizei list-group, list-group-numered e list-group-item para alterar o aspeto das listas orderanadas e não ordenadas
